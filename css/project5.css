@@ -37,11 +37,9 @@ img {
   font-weight: bold;
   font-size: 30px;
   user-select: none;
-}
-
-.next {
   right: 0;
 }
+
 
 .prev:hover,
 .next:hover {
